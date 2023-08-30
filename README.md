@@ -44,8 +44,8 @@ The system is capable of identifying the following types of entities:
 - [`data_reader.py`](src/data_reader.py): Responsible for reading the dataset and preparing it for model training and evaluation.
 - [`featureExtractor_CRF.py`](src/featureExtractor_CRF.py): Handles feature extraction for the CRF model.
 - [`RNN.py`](src/RNN.py): Contains the Recurrent Neural Network model implementation.
-- [`data_processing.py`](src/data_processing.py): Includes various data pre-processing utilities.
-- [`embeddings.py`](src/embeddings.py): Manages the training and usage of word embeddings.
+- [`data_processing.py`](src/data_processing.py): Includes various data pre-processing utilities for RNN implementation.
+- [`embeddings.py`](src/embeddings.py): Manages the training and usage of word embeddings for experiments with RNN.
 
 ## Report 📄
 For a comprehensive understanding of the methodologies, results, and other relevant details, refer to [`report.md`](report.md).
