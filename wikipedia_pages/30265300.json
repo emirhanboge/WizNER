@@ -1,0 +1,7 @@
+{
+    "id": "30265300",
+    "revid": "19089174",
+    "url": "https://en.wikipedia.org/wiki?curid=30265300",
+    "title": "Firewalk (computing)",
+    "text": "Firewalking is a technique developed by Mike Schiffman and David Goldsmith that utilizes &lt;a href=\"traceroute\"&gt;traceroute&lt;/a&gt; techniques and &lt;a href=\"Time%20to%20live\"&gt;TTL&lt;/a&gt; values to analyze &lt;a href=\"Internet%20Protocol\"&gt;IP packet&lt;/a&gt; responses in order to determine gateway ACL (&lt;a href=\"Access%20Control%20List\"&gt;Access Control List&lt;/a&gt;) filters and map networks. It is an active reconnaissance &lt;a href=\"network%20security\"&gt;network security&lt;/a&gt; analysis technique that attempts to determine which layer 4 protocols a specific firewall will allow.\nFirewalk is a software tool that performs Firewalking.\nTo protect a firewall / gateway against firewalking one can block &lt;a href=\"Internet%20Control%20Message%20Protocol\"&gt;ICMP&lt;/a&gt; &lt;a href=\"Time%20Exceeded\"&gt;Time Exceeded&lt;/a&gt; messages."
+}

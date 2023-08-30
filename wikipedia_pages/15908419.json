@@ -1,0 +1,7 @@
+{
+    "id": "15908419",
+    "revid": "32942831",
+    "url": "https://en.wikipedia.org/wiki?curid=15908419",
+    "title": "Arbitrary XML rendering",
+    "text": "Arbitrary XML Rendering (AXR), is a defunct project whose aim is to create a better standard for creating &lt;a href=\"web%20page\"&gt;web page&lt;/a&gt; and &lt;a href=\"web%20applications\"&gt;web applications&lt;/a&gt;. It will use XML for the content and HSS for the presentation layer. Some JavaScript will be used as well.\nHistory.\nThe founder of the project, Miro Keller, started with the design of HSS in early 2009, because of his frustration with the limitations of &lt;a href=\"CSS\"&gt;CSS&lt;/a&gt;. Initially it would be a strict superset of CSS, but as more ideas were developed, it became clear that no backwards compatibility could be maintained.\nIt started out as a simple text document defining the specification of an imaginary layout language, but the initial idea developed into a real community, with a clear goal: make the lives of web designers and developers easier.\nCurrently, work is being done on the project website, HSS itself, as well as a prototype of the rendering engine."
+}

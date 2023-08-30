@@ -1,0 +1,7 @@
+{
+    "id": "14254064",
+    "revid": "7903804",
+    "url": "https://en.wikipedia.org/wiki?curid=14254064",
+    "title": "Moorestown (computing platform)",
+    "text": "Moorestown is the &lt;a href=\"Intel%20Corporation\"&gt;Intel Corporation&lt;/a&gt;'s handheld &lt;a href=\"Mobile%20Internet%20device\"&gt;MID&lt;/a&gt; and smartphone platform based on Lincroft &lt;a href=\"system-on-a-chip\"&gt;system-on-a-chip&lt;/a&gt; with an &lt;a href=\"Intel%20Atom\"&gt;Atom processor&lt;/a&gt; core, Langwell input/output Platform Controller Hub (I/O PCH), and a Briertown Power Management IC. Announced in 2010, the platform was demonstrated running &lt;a href=\"Moblin%20Linux\"&gt;Moblin Linux&lt;/a&gt;.\nThe Moorestown platform introduced the Simple Firmware Interface (SFI), a lightweight alternative to ACPI. In Linux 5.12, support for SFI, which was previously marked as obsolete, was removed from the kernel by Intel."
+}

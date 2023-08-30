@@ -1,0 +1,7 @@
+{
+    "id": "33605690",
+    "revid": "27015025",
+    "url": "https://en.wikipedia.org/wiki?curid=33605690",
+    "title": "Borel isomorphism",
+    "text": "In mathematics, a Borel isomorphism is a measurable bijective function between two measurable &lt;a href=\"Borel%20set\"&gt;standard Borel&lt;/a&gt; spaces. By &lt;a href=\"analytic%20set\"&gt;Souslin's theorem&lt;/a&gt; in standard Borel spaces (a set that is both &lt;a href=\"Analytic%20set\"&gt;analytic&lt;/a&gt; and &lt;a href=\"coanalytic\"&gt;coanalytic&lt;/a&gt; is necessarily Borel), the inverse of any such measurable bijective function is also measurable. Borel isomorphisms are closed under composition and under taking of inverses. The set of Borel isomorphisms from a space to itself clearly forms a &lt;a href=\"group%20%28mathematics%29\"&gt;group&lt;/a&gt; under composition. Borel isomorphisms on standard Borel spaces are analogous to &lt;a href=\"homeomorphism\"&gt;homeomorphism&lt;/a&gt;s on &lt;a href=\"topological%20space\"&gt;topological space&lt;/a&gt;s: both are bijective and closed under composition, and a homeomorphism and its inverse are both &lt;a href=\"Continuity%20%28topology%29\"&gt;continuous&lt;/a&gt;, instead of both being only Borel measurable.\nBorel space.\nA &lt;a href=\"measurable%20space\"&gt;measurable space&lt;/a&gt; that is Borel isomorphic to a measurable subset of the real numbers is called a Borel space."
+}

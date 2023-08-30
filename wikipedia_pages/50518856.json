@@ -1,0 +1,7 @@
+{
+    "id": "50518856",
+    "revid": "782419748",
+    "url": "https://en.wikipedia.org/wiki?curid=50518856",
+    "title": "TorrentLocker",
+    "text": "TorrentLocker is a &lt;a href=\"ransomware\"&gt;ransomware&lt;/a&gt; &lt;a href=\"Trojan%20horse%20%28computing%29\"&gt;trojan&lt;/a&gt; targeting &lt;a href=\"Microsoft%20Windows\"&gt;Microsoft Windows&lt;/a&gt;. It was first observed in February 2014, with at least five of its major releases made available by December 2014. The malware encrypts the victim's files in a similar manner to &lt;a href=\"CryptoLocker\"&gt;CryptoLocker&lt;/a&gt; by implementing symmetric block cipher &lt;a href=\"Advanced%20Encryption%20Standard\"&gt;AES&lt;/a&gt; where the &lt;a href=\"Key%20%28cryptography%29\"&gt;key&lt;/a&gt; is encrypted with an &lt;a href=\"Public-key%20cryptography\"&gt;asymmetric cipher&lt;/a&gt;.\nTorrentLocker scans the system for programs and files, and conceals the contents through AES encryption leaving ransom instructions to the victim on what has to be done, and how to pay the decryption ransom. The operator demands from the victim an amount that usually starts around within 3 days. The victim is told to pay the amount in &lt;a href=\"Bitcoins\"&gt;Bitcoins&lt;/a&gt;, and is sent a unique Bitcoin address that differs for each infected user."
+}

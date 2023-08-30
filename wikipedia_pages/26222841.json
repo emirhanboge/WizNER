@@ -1,0 +1,7 @@
+{
+    "id": "26222841",
+    "revid": "51070",
+    "url": "https://en.wikipedia.org/wiki?curid=26222841",
+    "title": "Comparison of browser engines (typography support)",
+    "text": "This article compares &lt;a href=\"web%20typography\"&gt;web typography&lt;/a&gt; support for several &lt;a href=\"browser%20engine\"&gt;browser engine&lt;/a&gt;s.\nSupport for CSS font resources.\nCSS3 specified a mechanism for downloading and displaying fonts within a web page. This table compare support for that mechanism. Note that Embedded OpenType &lt;a href=\"Embedded%20OpenType\"&gt;(EOT)&lt;/a&gt; font download does not bring in the entire OpenType font and therefore, the most prominent feature of Open Type, ligature support, does not come with EOT. MSHTML before version 5.0 supports only EOT. EOT is not sufficient for smartfonts that rely on ligatures.\nSupport in HTML and XML documents.\nThis table compares support for font formats applied with the codice_1 rule in &lt;a href=\"HTML\"&gt;HTML&lt;/a&gt; and &lt;a href=\"XML\"&gt;XML&lt;/a&gt; documents.\nSupport in SVG documents.\nThis table compares support for font formats applied with the codice_1 rule in &lt;a href=\"Scalable%20Vector%20Graphics\"&gt;SVG&lt;/a&gt; documents."
+}

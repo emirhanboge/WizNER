@@ -1,0 +1,7 @@
+{
+    "id": "31664360",
+    "revid": "959385135",
+    "url": "https://en.wikipedia.org/wiki?curid=31664360",
+    "title": "Disparate system",
+    "text": "In &lt;a href=\"information%20technology\"&gt;information technology&lt;/a&gt;, a disparate system or a disparate data system is a &lt;a href=\"computer%20data%20processing\"&gt;computer data processing&lt;/a&gt; system that was designed to operate as a fundamentally distinct data processing system without exchanging data or interacting with other computer data processing systems. &lt;a href=\"Legacy%20systems\"&gt;Legacy systems&lt;/a&gt; are examples of disparate data systems as are heterogeneous database data systems. A disparate system is often characterized as an &lt;a href=\"information%20silo\"&gt;information silo&lt;/a&gt; because of the data system's isolation from or incompatibility with any other data systems.\nOverview.\nEach data system may be envisioned as being composed of a software layer or &lt;a href=\"applications%20architecture\"&gt;applications architecture&lt;/a&gt;, a data layer or &lt;a href=\"data%20architecture\"&gt;data architecture&lt;/a&gt;, and a data processing environment layer or technical architecture. Any of these three layers may contribute to forming a disparate data system."
+}

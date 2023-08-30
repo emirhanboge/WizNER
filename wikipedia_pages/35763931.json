@@ -1,0 +1,7 @@
+{
+    "id": "35763931",
+    "revid": "26007168",
+    "url": "https://en.wikipedia.org/wiki?curid=35763931",
+    "title": "Multipartition",
+    "text": "In &lt;a href=\"number%20theory\"&gt;number theory&lt;/a&gt; and &lt;a href=\"combinatorics\"&gt;combinatorics&lt;/a&gt;, a multipartition of a positive &lt;a href=\"integer\"&gt;integer&lt;/a&gt; \"n\" is a way of writing \"n\" as a &lt;a href=\"summation\"&gt;sum&lt;/a&gt;, each element of which is in turn a &lt;a href=\"Partition%20%28number%20theory%29\"&gt;partition&lt;/a&gt;. The concept is also found in the theory of &lt;a href=\"Lie%20algebra\"&gt;Lie algebra&lt;/a&gt;s.\nr-component multipartitions.\nAn \"r\"-component multipartition of an integer \"n\" is an \"r\"-tuple of partitions \u03bb(1)...,\u03bb(r) where each \u03bb(\"i\") is a partition of some \"a\"\"i\" and the \"a\"\"i\" sum to \"n\". The number of \"r\"-component multipartitions of \"n\" is denoted \"P\"\"r\"(\"n\"). Congruences for the function \"P\"\"r\"(\"n\") have been studied by &lt;a href=\"A.%20O.%20L.%20Atkin\"&gt;A. O. L. Atkin&lt;/a&gt;."
+}
